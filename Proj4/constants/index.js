@@ -1,0 +1,47 @@
+export const mokeMovies = [
+    "The Shawshank Redemption",
+    "The Godfather",
+    "The Dark Knight",
+    "Schindler's List",
+    "The Lord of the Rings: The Return of the King",
+    "Pulp Fiction",
+    "Forrest Gump",
+    "Inception",
+    "The Matrix",
+    "The Silence of the Lambs",
+    "Sholay",
+    "Lagaan",
+    "Dilwale Dulhania Le Jayenge",
+    "3 Idiots",
+    "Taare Zameen Par",
+    "Gangs of Wasseypur",
+    "Andaz Apna Apna",
+    "Mughal-e-Azam",
+    "Mother India",
+    "Salaam Bombay!"
+];
+
+
+export const mockShows = [
+    { id: 1, name: "Breaking Bad", rating: 9.5 },
+    { id: 2, name: "Game of Thrones", rating: 9.3 },
+    { id: 3, name: "The Office (US)", rating: 8.9 },
+    { id: 4, name: "Stranger Things", rating: 8.8 },
+    { id: 5, name: "The Crown", rating: 8.7 },
+    { id: 6, name: "The Sopranos", rating: 9.2 },
+    { id: 7, name: "Friends", rating: 8.9 },
+    { id: 8, name: "The Mandalorian", rating: 8.8 },
+    { id: 9, name: "Chernobyl", rating: 9.4 },
+    { id: 10, name: "The Handmaid's Tale", rating: 8.4 },
+    { id: 11, name: "Black Mirror", rating: 8.8 },
+    { id: 12, name: "The Big Bang Theory", rating: 8.1 },
+    { id: 13, name: "The Witcher", rating: 8.2 },
+    { id: 14, name: "Peaky Blinders", rating: 8.8 },
+    { id: 15, name: "Westworld", rating: 8.6 },
+    { id: 16, name: "Stranger Things", rating: 8.8 },
+    { id: 17, name: "The Boys", rating: 8.7 },
+    { id: 18, name: "The Haunting of Hill House", rating: 8.6 },
+    { id: 19, name: "Money Heist", rating: 8.3 },
+    { id: 20, name: "Narcos", rating: 8.8 },
+  ];
+
